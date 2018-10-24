@@ -1,4 +1,4 @@
-# JavaPrograms
+# Java Homework, Assignment Programs
 This repository contains programs that will help students learn important Java Programming, Object Oriented programming concepts. 
 These are the common programs that students need to write for their Java Homeworks and Assignments. 
 
